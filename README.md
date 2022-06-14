@@ -1,2 +1,2 @@
 # rss-travel
-[HTML CV](https://jerubrin.github.io/rss-travel/)
+[HTML](https://jerubrin.github.io/rss-travel/)
